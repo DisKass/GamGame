@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c50bdc3d21452142b07a45a23381e43, type: 3}
+  m_Name: Strongest
+  m_EditorClassIdentifier: 
+  level: 1
+  maxHealth: 20000
+  maxHealthMultiplier: 1
+  healthRegeneration: 0
+  healthRegenerationMultiplier: 1
+  damage: 10
+  damageMultiplier: 1
+  critChance: 0
+  critMultiplier: 2
+  speed: 8
+  speedMultiplier: 1
+  drag: 15
+  reload: 1
+  reloadMultiplier: 1
+  bulletSpeed: 20
+  bulletLifeTime: 1
+  currentWeapon: 0
+  attackRange: 200
+  sprite: {fileID: 3140100033390763802, guid: 32078c132b1035041915179b5d51b777, type: 3}
+  _playerAnimatorController: {fileID: 9100000, guid: 9ffc548f935642d4380ceb307033fa90,
+    type: 2}
+  position: {x: 2, y: 0}
+  IsDead: 0

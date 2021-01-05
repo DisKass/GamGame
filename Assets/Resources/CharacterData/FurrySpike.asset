@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c50bdc3d21452142b07a45a23381e43, type: 3}
+  m_Name: FurrySpike
+  m_EditorClassIdentifier: 
+  level: 5
+  maxHealth: 1000
+  maxHealthMultiplier: 1
+  healthRegeneration: 0
+  damage: 20
+  damageMultiplier: 1
+  critChance: 0.2
+  critMultiplier: 2
+  speed: 5
+  speedMultiplier: 1
+  drag: 5
+  reload: 1
+  reloadMultiplier: 1
+  bulletSpeed: 20
+  bulletLifeTime: 1
+  currentWeapon: 0
+  attackRange: 35
+  sprite: {fileID: 5416057613040467079, guid: 7812f71b95ee1c3488e101c586b47254, type: 3}
+  _playerAnimatorController: {fileID: 22100000, guid: ce2f5bf2f081a8a479950c22930cc225,
+    type: 2}
+  position: {x: 0, y: 0}
+  IsDead: 0
