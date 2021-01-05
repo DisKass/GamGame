@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawnzone
+  - Enemy
+  - Spawnpoint
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Wall
+  - Background
+  - Enemy
+  - SafeZone
+  - SafeZoneTrigger
+  - Checkpoints
+  - Player
+  - Interactable
+  - EditorOnly
+  - Boss
+  - Damage Dealing Item
+  - BulletBlocker
+  - OnlyPlayer
+  - EnemyGhost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 108180935
+    locked: 0
+  - name: Character
+    uniqueID: 1735435653
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1760458281
+    locked: 0
+  - name: Menu
+    uniqueID: 4107000639
+    locked: 0

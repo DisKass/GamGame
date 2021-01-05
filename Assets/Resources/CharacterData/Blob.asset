@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c50bdc3d21452142b07a45a23381e43, type: 3}
+  m_Name: Blob
+  m_EditorClassIdentifier: 
+  level: 2
+  maxHealth: 50
+  maxHealthMultiplier: 1
+  healthRegeneration: 0
+  damage: 5
+  damageMultiplier: 1
+  critChance: 0
+  critMultiplier: 0
+  speed: 5
+  speedMultiplier: 1
+  drag: 1
+  reload: 0
+  reloadMultiplier: 1
+  bulletSpeed: 0
+  bulletLifeTime: 1
+  currentWeapon: 0
+  attackRange: 9
+  sprite: {fileID: 1309489925366895345, guid: 629d77044b9a14b4c9d7983bec1a3180, type: 3}
+  _playerAnimatorController: {fileID: 22100000, guid: da386e6dd4d0c0b4a86a61bb863278ea,
+    type: 2}
+  currentWe1apon: 0
+  position: {x: 0, y: 0}
+  IsDead: 0

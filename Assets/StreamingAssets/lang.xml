@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<English>
+     	<string name="app_name">GamGame</string>
+     	<string name="version">Version: </string>
+		<string name="pressToBegin">Press to begin</string>
+	</English>
+
+	<Russian>
+     	<string name="app_name">GamGame</string>
+     	<string name="version">Версия: </string>
+		<string name="pressToBegin">Коснитесь экрана, чтобы начать</string>
+		<string name="victory">Победа!</string>
+		<string name="defeat">Поражение</string>
+		<string name="resume">Продолжить</string>
+		<string name="restart">Начать заново</string>
+		<string name="mainMenu">Начальный экран</string>
+		<string name="quit">Выход</string>
+		<string name="DescriptionOfItem_1">Теперь атаки поджигают врагов.</string>
+		<string name="DescriptionOfItem_2">Атаки получают пронзающий (сквозной) эффект.</string>
+		<string name="DescriptionOfItem_3">После получения 60 единиц урона замораживает врагов вокруг.</string>
+		<string name="DescriptionOfItem_4">Эти чудесные ботинки ускоряют игрока на 20%.</string>
+		<string name="DescriptionOfItem_5">Увеличивает регенирацию на 5.</string>
+		<string name="DescriptionOfItem_6">Добавляет топор, летающий вокруг игрока. Топор наносит урон равный урону игрока.</string>
+		<string name="DescriptionOfItem_7">Если рядом с атакуемым врагом находится другой враг, происходит взрыв.</string>
+		<string name="DescriptionOfItem_8">Рядом с игроком появляются звезды (Максимум 3). Частота появления зависит от скорости атаки. При атаке звезда вылетает в направлении выстрела.</string>
+		<string name="DescriptionOfItem_9">Увеличивает шанс критического урона на 25%.</string>
+		<string name="DescriptionOfItem_10">Когда в щит попадает снаряд, он выпускает 3 шипа. Шипы получают те же характеристики, что и попавшая в щит пуля.</string>
+		<string name="DescriptionOfItem_11">Вы восстанавливаете 10% от нанесенного врагам урона.</string>
+		<string name="DescriptionOfItem_12">В 2 раза увеличивает скорость атаки, но уменьшает урон на 40%.</string>
+		<string name="DescriptionOfItem_13">Увеличивает базовый урон на 10.</string>
+		<string name="DescriptionOfItem_14">Когда игрок начинает атаковать, получает неуязвимость на 0.2 секунды. Перезарядка 0.3 секунды.</string>
+		<string name="DescriptionOfItem_15">Уменьшает перезарядку на 0.01 сек. за каждого убитого врага. Сбрасывается при переходе на следующую локацию.</string>
+		<string name="DescriptionOfItem_16">Возвращает получаемый урон.</string>
+		<string name="DescriptionOfItem_17">При появлении врага игрок моментально наносит ему урон, равный половине атаки игрока.</string>
+		<string name="DescriptionOfItem_18">Увеличивает урон на 1 за каждых трех убитых врагов. Сбрасывается при переходе на следующую локацию.</string>
+		<string name="DescriptionOfItem_19">Увеличивает максимальное здоровье на 50. Игрок восстанавливает на 40% больше здоровья из любых источников.</string>
+		<string name="DescriptionOfItem_20">Увеличивает максимальное здоровье на 1 за каждого убитого врага.</string>
+		<string name="DescriptionOfItem_21">Питомец. Атакует случайных врагов.</string>
+		<string name="DescriptionOfItem_22">Увеличивает количество пуль при выстреле. увеличивает скорость их движения и разброс. Уменьшает радиус атаки.</string>
+		<string name="DescriptionOfItem_23">Враги вокруг персонажа периодическии получают урон.</string>
+		<string name="DescriptionOfItem_24">Когда у игрока остается меньше 40% здоровья он увеличивает скорость передвижения и массу на 3 секунды, а также получает иммунитет на 1 секунду. После окончания эффекта скорость игрока уменьшается на 2 секунды. Эффект может быть активирован снова после поднятия уровня здоровья до 50%.</string>
+		<string name="DescriptionOfItem_25">Ваши выстрелы взрываются при попадании.</string>
+	</Russian>
+
+</languages>

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c50bdc3d21452142b07a45a23381e43, type: 3}
+  m_Name: ShootingShell
+  m_EditorClassIdentifier: 
+  level: 1
+  maxHealth: 30
+  maxHealthMultiplier: 1
+  healthRegeneration: 0
+  healthRegenerationMultiplier: 1
+  damage: 30
+  damageMultiplier: 1
+  critChance: 0
+  critMultiplier: 0
+  speed: 7
+  speedMultiplier: 1
+  drag: 3
+  reload: 0.5
+  reloadMultiplier: 1
+  bulletSpeed: 10
+  bulletLifeTime: 3
+  currentWeapon: 0
+  attackRange: 14
+  sprite: {fileID: 21300000, guid: 219d438d6afb86149885a6d4865d94f5, type: 3}
+  _playerAnimatorController: {fileID: 22100000, guid: 14fb882d2a6f4694ea057aa5fc0dfa75,
+    type: 2}
+  position: {x: 0, y: 0}
+  IsDead: 0
