@@ -8,3 +8,18 @@
 Игра жанра roguelike для мобильных устройств. В начале игры игрок появляется в стартовом городе. Игрок может только перемещаться и стрелять в различных направлениях. Перейдя в портал, находящийся в городе игрок попадает в превую локацию, где сражается с первым набором врагов. Победив их игрок получает предмет, усиливающий его, а на локации открывается портал в следующую локацию. Время от времени встречаются локации с боссами. 
 
 На этапе разработки предметы можно подбирать в стартовом городе. Также в городе есть манекены для проверки предметов.
+
+Предметы в стартовом городе
+<img width="974" height="448" alt="image" src="https://github.com/user-attachments/assets/839e0a1c-ed10-4065-a5aa-53ed29abacc8" />
+
+Инвентарь игрока
+<img width="974" height="451" alt="image" src="https://github.com/user-attachments/assets/2a1d52d0-2fa9-4fa6-860b-91575894fac4" />
+
+Битва с летучими мышами
+<img width="974" height="448" alt="image" src="https://github.com/user-attachments/assets/b9a3e0db-39c2-429b-a596-39a4744e0835" />
+
+Битва с призраками
+<img width="974" height="446" alt="image" src="https://github.com/user-attachments/assets/20ffee72-a484-48d7-8351-9ba81409b6c7" />
+
+Битва с боссом
+<img width="974" height="447" alt="image" src="https://github.com/user-attachments/assets/ebe85de9-d0ea-4555-af20-11412e754774" />
